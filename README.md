@@ -11,8 +11,8 @@ There are 5 ladders for now. Mainly for div 2 participants (A-E).
 I've included a `Solved` column, to easily keep track for those who want to practice all the questions. So feel free to fork and star the repo.
 
 ### Ladders:
-* [Div2A](https://github.com/noman13/CodeForces-Ladders/blob/master/div2A.md)
-* [Div2B](https://github.com/noman13/CodeForces-Ladders/blob/master/div2B.md)
-* [Div2C](https://github.com/noman13/CodeForces-Ladders/blob/master/div2C.md)
-* [Div2D](https://github.com/noman13/CodeForces-Ladders/blob/master/div2D.md)
-* [Div2E](https://github.com/noman13/CodeForces-Ladders/blob/master/div2E.md)
+* [Div2A](https://github.com/noman13/codeforces_ladders/blob/master/div2A.md)
+* [Div2B](https://github.com/noman13/codeforces_ladders/blob/master/div2B.md)
+* [Div2C](https://github.com/noman13/codeforces_ladders/blob/master/div2C.md)
+* [Div2D](https://github.com/noman13/codeforces_ladders/blob/master/div2D.md)
+* [Div2E](https://github.com/noman13/codeforces_ladders/blob/master/div2E.md)
