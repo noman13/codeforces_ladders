@@ -1,6 +1,7 @@
 # CodeForces-Ladders
 **Latest ladders for CodeForces Practice**
 
+**This repository is originated from : https://github.com/karansinghgit/CodeForces-Ladders**
 
 The main reason I created this, is because the a2oj ladders are pretty outdated (all from 4-5 year old contests). 
 Also, the difficulty level of questions in contests has also increased.
