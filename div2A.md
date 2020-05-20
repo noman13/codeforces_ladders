@@ -40,7 +40,7 @@
 | 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 |  |
 | 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 |  |
 | 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 900 |  |
-| 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 |  |
+| 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 | solved |
 | 42 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 900 |  |
 | 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 |  |
 | 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 |  |
