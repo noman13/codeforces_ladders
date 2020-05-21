@@ -10,7 +10,7 @@
 | 8 | [Pens and Pencils](https://codeforces.com/problemset/problem/1244/A) | 700 |  |
 | 9 | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | 700 |  |
 | 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 700 |  |
-| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 |  |
+| 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 | solved |
 | 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 |  |
 | 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 |  |
 | 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  |
@@ -20,8 +20,8 @@
 | 18 | [Alex and a Rhombus](https://codeforces.com/problemset/problem/1180/A) | 800 |  |
 | 19 | [Maximum Square](https://codeforces.com/problemset/problem/1243/A) | 800 |  |
 | 20 | [Rounding](https://codeforces.com/problemset/problem/898/A) | 800 |  |
-| 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 |  |
-| 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 |  |
+| 21 | [Angry Students](https://codeforces.com/problemset/problem/1287/A) | 800 | solved |
+| 22 | [A pile of stones](https://codeforces.com/problemset/problem/1159/A) | 800 | solved |
 | 23 | [Neko Finds Grapes](https://codeforces.com/problemset/problem/1152/A) | 800 |  |
 | 24 | [Eleven](https://codeforces.com/problemset/problem/918/A) | 800 |  |
 | 25 | [Find Square](https://codeforces.com/problemset/problem/1028/A) | 800 |  |
@@ -30,7 +30,7 @@
 | 28 | [Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) | 800 |  |
 | 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 |  |
 | 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 |  |
-| 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 |  |
+| 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 | solved |
 | 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 |  |
 | 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 |  |
 | 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 |  |
@@ -40,7 +40,7 @@
 | 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 |  |
 | 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 |  |
 | 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 900 |  |
-| 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 |  |
+| 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 | solved |
 | 42 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 900 |  |
 | 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 |  |
 | 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 |  |
